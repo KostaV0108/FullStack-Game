@@ -142,18 +142,6 @@ In the Backend directory, run:
 ```
 This will start the backend server. Open https://localhost8080 in your browser to view it.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please submit an issue or a pull request on the [GitHub repository](https://github.com/MansoorAZafar/FullStack-React-Game).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/MansoorAZafar/FullStack-React-Game/blob/6d6276cc8467ae0fc0ddfe8fa4a56fe5ffbb09a5/LICENSE.txt) file for details.
-
-## Contact
-
-For any questions or feedback, feel free to reach out to [@MansoorAZafar](https://github.com/MansoorAZafar).
-
 ---
 
 Thank you for playing Mini Quest! Your feedback is invaluable in making the game better. Enjoy your adventure!
